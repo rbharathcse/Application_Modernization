@@ -1,6 +1,6 @@
 package org.example;
 
-public class Arrays {
+public class Arrays1 {
     public static void main(String[] args) {
         char [] ch = new char[]{'a','b','c'};
         int [] in = new int[]{1,2,3};
