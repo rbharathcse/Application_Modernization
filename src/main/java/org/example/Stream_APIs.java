@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-public class Stream_API {
+public class Stream_APIs {
     public static void main(String[] args) {
         ArrayList<String> al = new ArrayList<>();
         al.add("bharath");
